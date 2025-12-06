@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RichGang Dev Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ukwuoma Christopher</h1>
+    <p>Aspiring Web Developer | JavaScript Enthusiast</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I recently completed the Programming with JavaScript course on Coursera and I am building my web development skills.</p>
+  </section>
+
+  <section id="certificate">
+    <h2>Certificate</h2>
+    <a href="Coursera B2C6S2M9L9GQ.pdf" target="_blank">
+      <img src="images/certificate.png" alt="Programming with JavaScript Certificate" width="400">
+    </a>
+    <p>Click the image to view the certificate.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>No projects yet, but I am planning to build a Calculator, To-Do App, and more!</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email:ukwuomachristopher2@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/ukwuoma-christopher-176050378/" target="_blank">Ukwuoma Christopher</a></p>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
