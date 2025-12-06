@@ -3,7 +3,7 @@
 Hi, I am Ukwuoma Christopher, an aspiring web developer.
 
 ## Certificate
-- Programming with JavaScript (Coursera)
+- [Programming with JavaScript](Coursera B2C6S2M9L9GQ.pdf) 
 
 ## Goals
 - Learn web development fundamentals
@@ -11,4 +11,4 @@ Hi, I am Ukwuoma Christopher, an aspiring web developer.
 - Share my work on GitHub
 
 ## Contact
-- Email: ukwuomachristopher2@gmail.com
+- Email: your.ukwuomachristopher2@gmail.com
