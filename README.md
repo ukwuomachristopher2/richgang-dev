@@ -6,7 +6,9 @@ I recently completed the **Programming with JavaScript** course on Coursera and 
 ---
 
 ## 🎓 Certificate
-- [Programming with JavaScript](Coursera B2C6S2M9L9GQ.pdf)  
+- [Programming with JavaScript](Coursera B2C6S2M9L9GQ.pdf)
+
+- https://coursera.org/share/2af0221145307090e2392265fd120cae
 
 > Click the link to view or download my certificate.
 
